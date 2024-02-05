@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1687301497 source:c:\users\santi\desktop\poyecto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"pila.h"
+	<stdbool.h>
+
+1490112218 source:c:\users\santi\desktop\poyecto final\pila.c
+	"pila.h"
+
+1490112218 c:\users\santi\desktop\poyecto final\pila.h
+	<stdio.h>
+	<malloc.h>
+
